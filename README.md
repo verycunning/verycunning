@@ -1,4 +1,4 @@
-# Hi there, I'm Charles Cunningham (@verycunning2)! 👋
+# Hi there, I'm Charles Cunningham (@verycunning)! 👋
 
 **Founder & Chief Architect of The Tabbre Project | Pioneering Sustainable Energy and Global Economic Equity**
 
@@ -35,5 +35,7 @@ I'm always keen to collaborate on projects that push the boundaries of technolog
 *   **Website/Portfolio:** [tabbre.com](https://tabbre.com) 
 *   **LinkedIn:** [linkedin.com/in/cicunningham](https://www.linkedin.com/in/cicunningham/)
 *   **Email:** charles@tabbre.com
+*   **Twitter:** @verycunning2
+*   
 
 ---
