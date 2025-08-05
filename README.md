@@ -32,7 +32,7 @@ My work on The Tabbre Project draws heavily on my extensive background in:
 
 I'm always keen to collaborate on projects that push the boundaries of technology for the betterment of society. Feel free to explore my repositories or connect with me.
 
-*   **Website/Portfolio:** [tabbre.com](https://tabbre.com) (or your specific GitHub.io portfolio if different)
+*   **Website/Portfolio:** [tabbre.com](https://tabbre.com) 
 *   **LinkedIn:** [linkedin.com/in/cicunningham](https://www.linkedin.com/in/cicunningham/)
 *   **Email:** charles@tabbre.com
 
