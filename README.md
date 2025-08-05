@@ -35,7 +35,6 @@ I'm always keen to collaborate on projects that push the boundaries of technolog
 *   **Website/Portfolio:** [tabbre.com](https://tabbre.com) 
 *   **LinkedIn:** [linkedin.com/in/cicunningham](https://www.linkedin.com/in/cicunningham/)
 *   **Email:** charles@tabbre.com
-*   **Twitter:** @verycunning2
-*   
+*   **Twitter/X:** [@verycunning2](https://twitter.com/verycunning2)
 
 ---
